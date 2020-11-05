@@ -1,0 +1,56 @@
+﻿@model ConcertTicketsApp.BusinessModels.ViewModels.OrderViewModel
+
+@{ ViewBag.Title = "Order Concert Ticket"; }
+<h1>Order ticket now</h1>
+<h3>@ViewBag.Error</h3>
+@using (Html.BeginForm())
+{
+<div class="row">
+    <div class="col-md-6">
+        <div class="input-group input-group-md">
+            <span class="input-group-addon">@Html.LabelFor(x => x.FirstName)</span>
+            @Html.TextBox("model.FirstName", null, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="input-group input-group-md">
+            <span class="input-group-addon">@Html.LabelFor(x => x.LastName)</span>
+            @Html.TextBox("model.LastName", null, new { @class = "form-control" })
+        </div>
+    </div>
+</div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="input-group input-group-md">
+                            <span class="input-group-addon">@Html.LabelFor(x => x.Address)</span>
+                            @Html.TextBox("model.Address", null, new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group input-group-md">
+                            <span class="input-group-addon">@Html.LabelFor(x => x.Phone)</span>
+                            @Html.TextBox($"model.Phone", null, new { @class = "form-control" })
+                        </div>
+                    </div>
+                </div>
+                                @for (int i = 0; i < Model.Tickets.Count; i++)
+                                {
+                <h1>Ticket no: @(i + 1)</h1>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="input-group input-group-md">
+                                                <span class="input-group-addon">@Html.Label(expression: $"model.Tickets[{i}].Name")</span>
+                                                @Html.TextBox($"model.Tickets[{i}].Name", Model.Tickets[i].Name, null,
+                                               new { @class = "form-control" })
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="input-group input-group-md">
+                                                <span class="input-group-addon">@Html.Label(expression: $"model.Tickets[{i}].Category")</span>
+                                                @Html.DropDownList($"model.Tickets[{i}].Category",
+                                               Html.GetEnumSelectList(Model.Tickets[i].Category.GetType()), 
+                                               new { Model.Tickets[i].Category, @class = "form-control" })
+                                            </div>
+                                        </div>
+                                    </div>}
+                                                <button class="btn btn-danger" type="submit"> Order Now! </button>}

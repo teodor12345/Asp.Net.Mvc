@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\bin\Debug\netstandard2.0\ConcertTickets.App.Domain.deps.json
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\bin\Debug\netstandard2.0\ConcertTickets.App.Domain.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\bin\Debug\netstandard2.0\ConcertTickets.App.Domain.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTickets.App.Domain\obj\Debug\netstandard2.0\ConcertTickets.App.Domain.pdb

@@ -1,0 +1,14 @@
+﻿@model ConcertTicketsApp.BusinessModels.ViewModels.OrdersViewModel
+@{ ViewBag.Title = "Orders"; }
+<div class="jumbotron">
+    <h3>Fun Facts:</h3>
+    <p><b>First Customer: </b> @Model.NameOfFirstCustomer</p>
+    <p><b>Last Concert Ticket Ordered: </b> @Model.LastTicket</p>
+    <p><b>Most popular Concert Now: </b> @Model.MostPopularTicket</p>
+    <p><b>Number of orders so far: </b> @Model.OrderCount</p>
+</div>
+<h1>Ordered Tickets</h1>
+@foreach (ConcertTicketsApp.BusinessModels.ViewModels.OrderItemViewModel order in Model.Orders)
+{
+@Html.Partial("_orderItemPartial", order);
+}

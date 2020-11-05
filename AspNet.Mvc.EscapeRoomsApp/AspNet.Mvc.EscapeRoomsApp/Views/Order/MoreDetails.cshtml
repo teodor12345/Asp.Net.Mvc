@@ -1,0 +1,11 @@
+﻿
+@model AspNet.Mvc.EscapeRoomsApp.Models.ViewModals.Products.ProductViewModel
+
+    <form asp-route="Index" method="post">
+      
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <p  asp-for="Description" value="@Model.Description">@Model.Description</p>
+        </div>
+
+    </form>

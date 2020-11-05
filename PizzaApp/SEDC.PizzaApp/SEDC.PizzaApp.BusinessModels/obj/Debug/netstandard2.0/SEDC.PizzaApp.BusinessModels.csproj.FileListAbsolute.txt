@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.deps.json
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\bin\Debug\netstandard2.0\SEDC.PizzaApp.Domain.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\bin\Debug\netstandard2.0\SEDC.PizzaApp.Domain.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessModels\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.pdb

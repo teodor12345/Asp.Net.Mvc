@@ -1,0 +1,12 @@
+﻿@model ConcertTicketsApp.BusinessModels.ViewModels.MenuViewModel
+
+@{ ViewBag.Title = "Available Tickets"; }
+
+<h1 align="center">Concert Tickets List:</h1>
+
+
+
+@foreach (var ticketItem in Model.Menu)
+{
+@Html.Partial("_ticketItemPartial", ticketItem)}
+

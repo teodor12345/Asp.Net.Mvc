@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\bin\Debug\netstandard2.0\EscapeRoom.DataLayer.deps.json
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\bin\Debug\netstandard2.0\EscapeRoom.DataLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\bin\Debug\netstandard2.0\EscapeRoom.DataLayer.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoom.DataLayer\obj\Debug\netstandard2.0\EscapeRoom.DataLayer.pdb

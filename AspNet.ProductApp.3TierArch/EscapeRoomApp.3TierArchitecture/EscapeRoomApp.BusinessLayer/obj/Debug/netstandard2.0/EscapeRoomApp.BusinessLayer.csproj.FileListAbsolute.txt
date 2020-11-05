@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\bin\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.deps.json
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\bin\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\bin\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\bin\Debug\netstandard2.0\EscapeRoom.DataLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\bin\Debug\netstandard2.0\EscapeRoom.DataLayer.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\AspNet.ProductApp.3TierArch\EscapeRoomApp.3TierArchitecture\EscapeRoomApp.BusinessLayer\obj\Debug\netstandard2.0\EscapeRoomApp.BusinessLayer.pdb

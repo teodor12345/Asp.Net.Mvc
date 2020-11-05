@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.deps.json
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.DataAccess.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.Domain.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.BusinessModels.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.DataAccess.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\bin\Debug\netstandard2.0\SEDC.PizzaApp.Domain.pdb
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.dll
+C:\Users\User\Desktop\New folder\PizzaApp\SEDC.PizzaApp\SEDC.PizzaApp.BusinessLayer\obj\Debug\netstandard2.0\SEDC.PizzaApp.BusinessLayer.pdb

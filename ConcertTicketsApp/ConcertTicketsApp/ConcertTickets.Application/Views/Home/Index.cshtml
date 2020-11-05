@@ -1,0 +1,24 @@
+﻿@model ConcertTicketsApp.BusinessModels.ViewModels.HomeViewModel
+
+@{ ViewBag.Title = "Buy Tickets Now!"; }
+
+<div class="jumbotron">
+    <h1>Buy Concert Tickets app</h1>
+    <p>Check out our varaity of Concert Tickets in Available Tickets!!!</p>
+    <p>And come back and Order your Ticket Now by one press of the button!!!</p>
+
+
+    <h3>Order Ticket Now</h3>
+    @using (Html.BeginForm())
+    {
+<div class="row">
+    <div class="col-md-2">
+        <div class="input-group">
+            <span class="input-group-btn">
+                <button class="btn btn-success" type="submit">Order Now!</button>
+            </span>
+            @Html.TextBoxFor(x => x.NumberOfTickets, new { @class = "form-control" })
+        </div>
+    </div>
+</div>}
+</div>

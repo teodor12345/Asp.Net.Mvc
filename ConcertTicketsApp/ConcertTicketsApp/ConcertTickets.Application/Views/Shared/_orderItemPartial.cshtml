@@ -1,0 +1,15 @@
+﻿@model ConcertTicketsApp.BusinessModels.ViewModels.OrderItemViewModel
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>User: @Model.FirstName @Model.LastName</h3>
+        <p><b> Total Price: </b>@Model.Price</p>
+    </div>
+    <div class="col-md-8">
+        <h3>Concert tickets:</h3>
+        @foreach (var ticket in Model.Tickets)
+        {
+           @Html.Partial("_ticketItemPartial", ticket)}
+        <h5>+ 2$ delivery fee</h5>
+    </div>
+</div>

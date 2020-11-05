@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.deps.json
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTickets.App.Domain.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTickets.DataAccess.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTicketsApp.BusinessModels.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTickets.DataAccess.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTicketsApp.BusinessModels.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\bin\Debug\netstandard2.0\ConcertTickets.App.Domain.pdb
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.dll
+C:\Users\User\Desktop\AspNetMvc-Homeworks\ConcertTicketsApp\ConcertTicketsApp\ConcertTicketsApp.BusinessLayer\obj\Debug\netstandard2.0\ConcertTicketsApp.BusinessLayer.pdb
